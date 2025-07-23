@@ -4,12 +4,12 @@
     <display-name>Afya TV</display-name>
   </channel>
 
-  <programme start="20250723190000 +0300" stop="20250723200000 +0300" channel="afyakits_TV">
+  <programme start="20250723190000+0300" stop="20250723200000+0300" channel="afyakits_TV">
     <title>Evening Yoga</title>
     <desc>Relaxing yoga session for all ages.</desc>
   </programme>
 
-  <programme start="20250723200000 +0300" stop="20250723210000 +0300" channel="afyakits_TV">
+  <programme start="20250723200000+0300" stop="20250723210000+0300" channel="afyakits_TV">
     <title>Healthy Cooking</title>
     <desc>Learn to cook healthy meals.</desc>
   </programme>
